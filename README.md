@@ -24,4 +24,4 @@ Implications of predictions: The rsquared values are low for every model, meanin
 
 Overall, when exploring the relationships contributing to number of weeks at number one and the accuracy of models in predicting this, a lot of insights can be found. We find that even though there are some moderate correlations between the variables, it is very challenging to predict the number of weeks based on any predictor. However we see that as happiness, overall song rating, and bpm increase, there is a correlated increase in the number of weeks at number one. This relationship is not super strong, but it is moderately correlated. 
 
-
+In this repository the images labled p1-p5 show my 5 explorartory plots and the PlotsDash image shows the dashboard with all my visuals. p6 shows the visual comparing my various models. See Final RMD File or Final-HTML-FILE for my code, responses, and plots. See HTML-Report for just the write up on my data and findings.
