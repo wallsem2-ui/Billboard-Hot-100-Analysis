@@ -1,4 +1,4 @@
-# 309-Final-Exam
+# Billboard Hot 100 Analysis
 
 My dataset is from the Billboard Hot 100 Number Ones Database, found on TidyTuesday in Github. 
 The data covers every number one song from August 4, 1958 to January 11, 2025. The data was cleaned and filtered and the analysis looks at the number one songs from 2000-2025.
